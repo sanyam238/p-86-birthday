@@ -21,6 +21,3 @@ function new_image()
 function playSound(){
 	x.play();
 }
-
-
-var snd = new Audio("bdayaudio.mp3");
