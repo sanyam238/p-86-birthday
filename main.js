@@ -18,6 +18,9 @@ function new_image()
 });
 }
 
-function playsSound(){
+function playSound(){
 	x.play();
 }
+
+
+var snd = new Audio("bdayaudio.mp3");
